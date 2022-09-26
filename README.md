@@ -60,4 +60,3 @@ function solution() {
 ```
 
 </details>
-# project_euler_solution
